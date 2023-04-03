@@ -12,3 +12,7 @@ simplified the loop shape and reorganized parameters into objects to pass throug
 A4Q2
 https://editor.p5js.org/coffiemug/sketches/iw6wo5o60
 used nested for loopes to make a grid of custom shape tiles.
+
+A4Q3
+https://editor.p5js.org/coffiemug/sketches/mugb7g4Ao
+add random values to your sketch to generate a new random pattern whenever the sketch is played. added random values or ranges directly for flower placement, and added randomness to the colors which pull those options from an array of strings.
